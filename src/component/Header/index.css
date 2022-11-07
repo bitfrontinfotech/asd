@@ -1,0 +1,22 @@
+
+.Addcart{
+    margin-right: 50px;
+}
+.form-control1 {
+    width: 35px;
+    text-align: center;
+}
+.images1{
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* height: 100%; */
+}
+.images2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: cadetblue;
+}
